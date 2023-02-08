@@ -3,6 +3,8 @@
 ## Description
 An e-commerce Database with SQL
 
+[VIDEO DEMO](https://drive.google.com/file/d/1AppELKZq7EnDELvDIosGTvlgGsZeAxJE/view)
+
 ## Table of contents
 
 - [Installation](#Insallation)
@@ -16,10 +18,10 @@ An e-commerce Database with SQL
 - [Questions](#Questions)
 
 ## Installation
-Use "npm install" before trying to run
+Use ["npm install"](https://www.npmjs.com/package/npm-install) before trying to run (node modules)
 
 ## Usage
-Type "npm run seed" into terminal then "node server" to start your server, you can then use Insomnia to modify and view the database.
+Type "npm run seed" into terminal then "node server" to start your server, you can then use [Insomnia App](https://insomnia.rest/download) to modify and view the database.
 
 ## Contributing
 Ian Gurgoze
